@@ -1,0 +1,4 @@
+ZigSteamController
+steam-cli
+Zig
+winget

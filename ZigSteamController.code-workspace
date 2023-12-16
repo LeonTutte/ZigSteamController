@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"ltex.additionalRules.enablePickyRules": true,
+		"ltex.completionEnabled": true
+	}
+}
